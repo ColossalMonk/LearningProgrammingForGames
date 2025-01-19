@@ -20,13 +20,10 @@ Each assignment will **guide you step-by-step** to help you master different asp
 ## 📝 Assignments  
 
 ### 🎲 **Assignment 1**  
-📌 **Objective:** Study .  
+📌 **Objective:** Study and Learn **C# and Unity** for Game Development
 
-💡 **Description:**  
-- Design a **text-based game** like *"Guess the Number"* or *"Rock, Paper, Scissors"* 📝.  
-- Use **conditional statements** and **loops** effectively 🔄.  
-- Focus on **clean and modular code** 💾.  
-
+📝 **Resources:**
+- 
 ![Text-Based Game](https://upload.wikimedia.org/wikipedia/commons/3/3e/Text-Based_Adventure_Game.png)  
 
 ---
