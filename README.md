@@ -1,7 +1,7 @@
 # 🎮 Learn Programming for Games  
 **Welcome to the exciting world of game development!** 🚀  
 
-// ![Game Development](https://giphy.com/embed/1ylOHgLDKw7eD8WgoB")  
+![Game Development](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpjNDBraTJ2a3FzMGJ0MHczdjhwZmF3d3FlOXA2a3RkMHlocXcxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif)
 
 This course is designed to help you dive into **game programming**, where you’ll learn essential coding techniques and apply them to create **your own games**. 🕹️💻  
 
@@ -19,22 +19,19 @@ Each assignment will **guide you step-by-step** to help you master different asp
 
 ## 📝 Assignments  
 
-### 🎲 **Assignment 1: Hello, World of Games!**  
-📌 **Objective:** Create a basic console game to understand **input, output, and loops**.  
+### 🎲 **Assignment 1**  
+📌 **Objective:** Study .  
 
 💡 **Description:**  
 - Design a **text-based game** like *"Guess the Number"* or *"Rock, Paper, Scissors"* 📝.  
 - Use **conditional statements** and **loops** effectively 🔄.  
 - Focus on **clean and modular code** 💾.  
 
-📅 **Submission Deadline:** *[Insert Date]*  
-🛠️ **Key Concepts Covered:** Input/Output, Loops, Conditional Logic.  
-
 ![Text-Based Game](https://upload.wikimedia.org/wikipedia/commons/3/3e/Text-Based_Adventure_Game.png)  
 
 ---
 
-### 🕹️ **Assignment 2: Sprites and Movement**  
+### 🕹️ **Assignment 2**  
 📌 **Objective:** Build a basic **2D game** with **player movement**.  
 
 💡 **Description:**  
