@@ -24,50 +24,17 @@ Each assignment will **guide you step-by-step** to help you master different asp
 
 📝 **Resources:**
 - 
-![Text-Based Game](https://upload.wikimedia.org/wikipedia/commons/3/3e/Text-Based_Adventure_Game.png)  
 
 ---
 
 ### 🕹️ **Assignment 2**  
-📌 **Objective:** Build a basic **2D game** with **player movement**.  
+📌 **Objective:** Making a basic game **Dodge the Block**.  
 
 💡 **Description:**  
-- Create a **simple 2D game** using *[chosen framework/engine]* 🎮.  
-- Implement **basic player movement** (arrow keys or WASD controls) 🎯.  
-- Add **basic collision detection** 🏗️.  
-
-📅 **Submission Deadline:** *[Insert Date]*  
-🛠️ **Key Concepts Covered:** Game Loop, Input Handling, Collision Detection.  
-
-![Character Movement](https://cdn.dribbble.com/users/1355613/screenshots/5065411/sprite_animation.gif)  
-
----
-
-### 🎯 **Assignment 3: Adding Challenges**  
-📌 **Objective:** Introduce obstacles and a **scoring system**.  
-
-💡 **Description:**  
-- Add **enemies, traps, or falling objects** 🚧.  
-- Implement a **score system** or levels ⭐.  
-- Include **basic start and game-over screens** 📺.  
-
-📅 **Submission Deadline:** *[Insert Date]*  
-🛠️ **Key Concepts Covered:** Dynamic Object Handling, Basic Game Design.  
-
-![Obstacles in Game](https://miro.medium.com/max/1400/1*J49OVxByWWts9hzB-X_5Cw.gif)  
-
----
-
-### ⚡ **Assignment 4: Power-ups and Progress**  
-📌 **Objective:** Enhance the game with **collectibles and power-ups**.  
-
-💡 **Description:**  
-- Add **power-ups**, health boosts, or **time bonuses** ⏳.  
-- Introduce **additional levels** or **challenges** 🔥.  
-- Polish the **visuals and add sound effects** 🎶.  
-
-📅 **Submission Deadline:** *[Insert Date]*  
-🛠️ **Key Concepts Covered:** Object-Oriented Programming, Audio Integration.  
+- Create a **simple 2D game** using _Unity_ 🎮.  
+- Implement **basic player movement** (arrow keys, WASD controls, Touch Controller) 🎯.  
+- Add **basic collision detection** 🏗️.
+- Making **UI and Scoring System with Audio**. 
 
 ---
 
@@ -79,10 +46,7 @@ Each assignment will **guide you step-by-step** to help you master different asp
 - Implement **unique mechanics or storytelling** 📝.  
 - Submit a **short documentation** explaining your game concept.  
 
-📅 **Submission Deadline:** *[Insert Date]*  
-🛠️ **Key Concepts Covered:** Project Development, Game Design, Creativity.  
-
-![Final Game](https://media1.giphy.com/media/XbrtckOGMgD0DDCZSV/giphy.gif)  
+![Final Game](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNiNGs4a3E2cjRtMHFla2s3ZzNxa2s2bXNnb3RhanZuNHJra3pqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif)
 
 ---
 
@@ -106,16 +70,7 @@ Your assignments will be evaluated based on:
 
 ---
 
-## 📚 Additional Resources  
-Here are some useful links to get started:  
-
-🔗 [Game Development Basics](https://example.com)  
-🔗 [Programming for Beginners](https://example.com)  
-🔗 [Your Chosen Engine/Framework Documentation](https://example.com)  
-
----
-
 ## 🚀 Get Ready to Code & Play!  
 Let the game development journey begin! 🕹️💻 Happy coding!  
 
-![Game On](https://media2.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif)  
+![Game On](https://media.giphy.com/media/5UAofAl6g5t1GL5nO8/giphy.gif?cid=790b761108e223b3e6e4hrqs24gmj260p90h44vu4fq913r1&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
